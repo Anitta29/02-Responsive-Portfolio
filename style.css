@@ -1,10 +1,18 @@
-.header {
+.header{
     color: red;
+    background-color: teal;
+  
 }
 .row {
-    color: blue;
+    background-color: white;
+    color: teal;
+
 }
 
 .text {
     float:right;
+
+}
+.card-image-top anita {
+    height: 300px; width: 250 px;
 }
