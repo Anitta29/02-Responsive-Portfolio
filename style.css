@@ -42,8 +42,14 @@ body {
  
   width: 100vw;
   min-height: 100vh;
-  
 }
+.cbody {
+    background-image: url(summer-tropical.jpg);
+    width: 100vw;
+    min-height: 100vh;
+}
+  
+
 hr {
     height: 1px;
     color: black;
@@ -52,5 +58,8 @@ hr {
     width: 70px;
 }
 .card-body {
-    color: teal;
+    color: white;
+}
+.card-body {
+    background-color: teal;;
 }
